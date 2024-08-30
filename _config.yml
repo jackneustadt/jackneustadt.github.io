@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : # "Red Brick University"
+  bio              : "Current Miller Fellow at JHU, PhD from OSU /n Studies AGNs and transients" 
+  location         : #"Earth"
+  employer         : "Johns Hopkins University"
   uri              : # URL
   email            : "jneusta2@jh.edu" 
 

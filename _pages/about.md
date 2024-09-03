@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my webpage, traveler.  Rest here, stay for a while"
+title: "Jack Neustadt | Miller Fellow @ JHU"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Welcome to my webpage, traveller.  Rest here, stay a while.
 
 I am currently a Miller Fellow in the Department of Physics & Astronomy at Johns Hopkins University. 
 

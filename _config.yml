@@ -81,6 +81,12 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  agns:
+    title: 'Stochastic AGN Variability'
+  transients:
+    title: 'Transients around SMBHs'
+  sne:
+    title: 'The deaths of massive stars'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

@@ -4,7 +4,7 @@ collection: publications
 category: transients
 permalink: /publication/paper3
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-06
+date: 2022-06-01
 venue: 'MNRAS'
 ---
 

@@ -3,8 +3,8 @@ title: "The search for failed supernovae with the Large Binocular Telescope: a n
 collection: publications
 category: sne
 permalink: /publication/paper3
-excerpt: 'I've also worked on finding failed supernova (SN) candidates with the OSU-co-owned Large Binocular Telescope (LBT).  Failed SNe are what happen when stars are too massive to explode as SN and instead implode into BHs.  We reported the discovery of a new candidate failed SN and updated the failed SN fraction based on our observations.'
-date: 2021-11-01
+excerpt: 'I have also worked on finding failed supernova (SN) candidates with the OSU-co-owned Large Binocular Telescope (LBT).  Failed SNe are what happen when stars are too massive to explode as SN and instead implode into BHs.  We reported the discovery of a new candidate failed SN and updated the failed SN fraction based on our observations.'
+date: 2022-06-01
 venue: 'MNRAS'
 ---
 

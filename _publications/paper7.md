@@ -2,7 +2,7 @@
 title: "AGN STORM 2. VI. Mapping Temperature Fluctuations in the Accretion Disk of Mrk 817"
 collection: publications
 category: agns
-permalink: https://ui.adsabs.harvard.edu/abs/2024ApJ...961..219N/abstract
+permalink: /publication/paper7
 excerpt: ''
 date: 2024-02-01
 venue: 'ApJ'

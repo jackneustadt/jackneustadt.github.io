@@ -3,7 +3,7 @@ title: "Detection of optical emission associated with the Galactic SNR G64.5+0.9
 collection: publications
 category: sne
 permalink: /publication/paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This was first, first-author paper from my undergrad at Dartmouth.  We report the optical detection of a distant, mid-plane supernova remnant.  The highlight of this paper is its figures, where we showcase how we were able to detect the source despite its optical faintness.'
 date: 2017-06-01
 venue: 'MNRAS'
 ---

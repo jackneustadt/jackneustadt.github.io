@@ -1,7 +1,7 @@
 ---
 title: "To TDE or not to TDE: the luminous transient ASASSN-18jd with TDE-like and AGN-like qualities"
 collection: publications
-category: transients
+category: agns
 permalink: /publication/paper7
 excerpt: ''
 date: 2024-02-01

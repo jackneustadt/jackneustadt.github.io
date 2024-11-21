@@ -2,7 +2,7 @@
 title: " Constraints on pre-SN outbursts from the progenitor of SN 2023ixf using the Large Binocular Telescope"
 collection: publications
 category: sne
-permalink: https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.5366N/abstract
+permalink: publications/paper6
 excerpt: 'The LBT search for failed SN is also just a great dataset for successful SNe.  The survey has been ongoing since 2008, and so we now have up to 15 years of archival observations that can be used to measure and constrain the pre-SN variability of the progenitor star.  We do exactly this for SN 2023ixf, finding no evidence for optical variability in our data.  We also put upper limits outbursts that we may have missed due to gaps in observation – namely, if the progenitor exceeded 5x its initial luminosity in an outburst, we would have been able to detect it because its long-lasting effects on the dust surrounding the progenitor.'
 date: 2024-01-01
 venue: 'MNRAS'

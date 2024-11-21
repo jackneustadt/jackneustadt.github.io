@@ -1,11 +1,11 @@
 ---
-title: "To TDE or not to TDE: the luminous transient ASASSN-18jd with TDE-like and AGN-like qualities"
+title: "Detection of optical emission associated with the Galactic SNR G64.5+0.9 "
 collection: publications
-category: transients
+category: sne
 permalink: /publication/paper1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-05-01
+date: 2017-06-01
 venue: 'MNRAS'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We present optical observations of the radio-faint Galactic supernova remnant G64.5+0.9. Despite its small angular diameter (~8 arcmin) and nearly spherical morphology suggestive of a relatively young age, the current estimated distance of ∼11 kpc implies a large and relatively old remnant. We have detected faint Hα and [S II] emission in thin filaments around the remnant's northern and western limbs. Low-dispersion spectra indicate radiative-type shock emission with [S II]/Hα ratios of 1.1 to 1.5, consistent with that seen in old supernova remnants. The detection of associated optical emission for such a radio-faint remnant is unexpected given the remnant's estimated distance and location so close to the Galactic plane. Despite the remnant's small angular size, spherical morphology and thin emission filaments like those seen in relatively young Balmer-dominated supernova remnants, our optical spectra show radiative shock emissions consistent with an old age and large distance. 

@@ -2,10 +2,10 @@
 title: "To TDE or not to TDE: the luminous transient ASASSN-18jd with TDE-like and AGN-like qualities"
 collection: publications
 category: transients
-permalink: /publication/paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/paper2
+excerpt: 'Going from stellar mass BHs back to SMBHs, I’ve also done work on TDEs detected by ASAS-SN.  TDEs are the luminous flares that occur when a star gets ripped apart by the tidal forces of a SMBH and is accreted.  My first, first-author paper at OSU was characterizing ASASSN-18jd, a peculiar event that is not quite a TDE, and not quite an AGN.  At the time, ASASSN-18jd was unique in its peculiarity, but newer work has shown there to be a handful of ambiguous nuclear transients (ANTs) with similar in-between-TDE-and-AGN properties.'
 date: 2020-05-01
 venue: 'MNRAS'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We present the discovery of ASASSN-18jd (AT 2018bcb), a luminous optical/ultraviolet(UV)/X-ray transient located in the nucleus of the galaxy 2MASX J22434289-1659083 at z = 0.1192. Over the year after discovery, Swift UltraViolet and Optical Telescope (UVOT) photometry shows the UV spectral energy distribution of the transient to be well modelled by a slowly shrinking blackbody with temperature T ∼ 2.5×10^4 K, a maximum observed luminosity of L_max = 4.5(+0.6,−0.3)×10^44 erg s^−1, and a radiated energy of E = 9.6(+1.1,−0.6)×10^51 erg. X-ray data from Swift X-Ray Telescope (XRT) and XMM-Newton show a transient, variable X-ray flux with blackbody and power-law components that fade by nearly an order of magnitude over the following year. Optical spectra show strong, roughly constant broad Balmer emission and transient features attributable to He II, N III-V, O III, and coronal Fe. While ASASSN-18jd shares similarities with tidal disruption events (TDEs), it is also similar to the newly discovered nuclear transients seen in quiescent galaxies and faint active galactic nuclei (AGNs).

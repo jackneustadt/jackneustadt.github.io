@@ -1,8 +1,8 @@
 ---
-title: "To TDE or not to TDE: the luminous transient ASASSN-18jd with TDE-like and AGN-like qualities"
+title: "AGN STORM 2. VI. Mapping Temperature Fluctuations in the Accretion Disk of Mrk 817"
 collection: publications
 category: agns
-permalink: /publication/paper7
+permalink: https://ui.adsabs.harvard.edu/abs/2024ApJ...961..219N/abstract
 excerpt: ''
 date: 2024-02-01
 venue: 'ApJ'

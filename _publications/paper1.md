@@ -8,4 +8,6 @@ date: 2017-06-01
 venue: 'MNRAS'
 ---
 
+Check out the paper [here](https://ui.adsabs.harvard.edu/abs/2017MNRAS.469..516N/abstract)!
+
 We present optical observations of the radio-faint Galactic supernova remnant G64.5+0.9. Despite its small angular diameter (~8 arcmin) and nearly spherical morphology suggestive of a relatively young age, the current estimated distance of ∼11 kpc implies a large and relatively old remnant. We have detected faint Hα and [S II] emission in thin filaments around the remnant's northern and western limbs. Low-dispersion spectra indicate radiative-type shock emission with [S II]/Hα ratios of 1.1 to 1.5, consistent with that seen in old supernova remnants. The detection of associated optical emission for such a radio-faint remnant is unexpected given the remnant's estimated distance and location so close to the Galactic plane. Despite the remnant's small angular size, spherical morphology and thin emission filaments like those seen in relatively young Balmer-dominated supernova remnants, our optical spectra show radiative shock emissions consistent with an old age and large distance. 

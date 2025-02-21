@@ -8,7 +8,6 @@ date: 2022-06-01
 venue: 'MNRAS'
 ---
 
-Check out the paper [here]()!
 Check out the paper <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.1046N/abstract" target="_blank">here</a>!
 
 

@@ -11,7 +11,7 @@ Welcome to my webpage, traveller.  Rest here, stay a while.
 
 I am currently a Miller Fellow in the Department of Physics & Astronomy at Johns Hopkins University.  
 
-Before thatm, I was _the_ sixth year graduate student in _the_ Department of Astronomy at _the_ Ohio State University.  
+Before that, I was _the_ sixth year graduate student in _the_ Department of Astronomy at _the_ Ohio State University.  
 
 I've had opportunities to work on a variety of topics, but most of my work has involved studying the accretion variability of supermassive black holes (SMBHs) in active galactic nuclei (AGNs).  This can be split up into two broad topics - the variability of the central accretion diskk and the changing-look phenomenon.  
 

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jack Neustadt"
+title                    : "Jack Neustadt, PhD"
 title_separator          : "-"
 name                     : &name "Jack Neustadt, PhD"
 description              : &description "personal description"

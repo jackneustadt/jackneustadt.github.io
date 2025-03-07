@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jack Neustadt | Miller Fellow @ JHU"
+title: "Jack Neustadt \| Miller Fellow @ JHU"
 author_profile: true
 redirect_from: 
   - /about/

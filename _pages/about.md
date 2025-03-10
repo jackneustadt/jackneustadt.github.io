@@ -22,3 +22,5 @@ My current work is a little different, examining velocity-stratified outflows in
 I've also worked on other projects focused on transients, namely: the Large Binocular Telescope (LBT) search for failed supernovae (SNe); and studies of tidal disruption events (TDEs) discovered by the All-Sky Automated Survey for Supernovae (ASAS-SN). 
 
 Check out my <a href="https://jackneustadt.github.io/publications/">Publications</a> page to see short summaries of all my first-author papers.  
+
+For questions about my academic research, you can email me at my JHU or OSU email.  For other inquiries, you can contact me on LinkedIn or through my personal email, also found on LinkedIn.

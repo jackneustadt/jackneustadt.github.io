@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage, traveller.  Rest here, stay a while.
+**Welcome to my webpage, traveller.  Rest here, stay a while.**
 
 I am a Ph.D. astrophysicist with an expertise in the **time-variable growth of supermassive black holes (SMBHs)**.  
 

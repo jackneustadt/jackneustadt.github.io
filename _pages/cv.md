@@ -11,5 +11,5 @@ redirect_from:
 
 Updated October 2024
 
-<object data="../files/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../files/cv_2026jan.pdf" width="1000" height="1000" type='application/pdf'></object>
 

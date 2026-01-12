@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated October 2024
+Updated January 2026
 
 <object data="../files/cv_2026jan.pdf" width="1000" height="1000" type='application/pdf'></object>
 

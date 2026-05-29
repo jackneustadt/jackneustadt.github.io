@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-7351-2531"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_doctype%7D&fq_database=database%3A%20astronomy&fq_doctype=(((*%3A*%20NOT%20doctype_facet_hier%3A%221%2FArticle%2FProceedings%20Article%22))%20AND%20doctype_facet_hier%3A%220%2FArticle%22)&q=author%3A(%22neustadt%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+  researchgate     : # 
   ADS              : "https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_doctype%7D&fq_database=database%3A%20astronomy&fq_doctype=(((*%3A*%20NOT%20doctype_facet_hier%3A%221%2FArticle%2FProceedings%20Article%22))%20AND%20doctype_facet_hier%3A%220%2FArticle%22)&q=author%3A(%22neustadt%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
 
   # Repositories and software development

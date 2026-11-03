@@ -82,13 +82,13 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  agns:
+  2-agns:
     title: 'Stochastic AGN Variability'
-  transients:
+  3-transients:
     title: 'Transients around SMBHs'
-  sne:
+  1-sne:
     title: 'The deaths of massive stars'
-  snrs:
+  4-snrs:
     title: 'Supernova Remnants'
 
 # Site Settings

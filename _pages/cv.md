@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated May 2026
+Updated Oct 2026
 
-<object data="../files/cv_2605.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../files/cv_2610.pdf" width="1000" height="1000" type='application/pdf'></object>
 

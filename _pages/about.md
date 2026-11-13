@@ -16,3 +16,5 @@ Primarily, I have investigated the **deaths of massive stars** using data from t
 I am currently a **Miller Postdoctoral Fellow** in the Department of Physics & Astronomy at The Johns Hopkins University.  Before that, I was _the_ sixth year graduate student in _the_ Department of Astronomy at _the_ Ohio State University.  
  
 Check out my <a href="https://jackneustadt.github.io/publications/">Publications</a> page to see short summaries of all my first-author papers.  
+
+I no longer have access to my OSU email (neustadt dot 7 at osu dot edu), so if you emailed it recently and didn't get a response, please forward it to my JHU email.
